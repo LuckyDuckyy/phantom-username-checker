@@ -1,0 +1,4 @@
+requests
+tqdm
+concurrent.futures
+threading
