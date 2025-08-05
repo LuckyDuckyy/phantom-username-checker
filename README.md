@@ -14,3 +14,4 @@ Made for checking the availability of usernames on the Phantom using a wordlist.
 - Input your username wordlist in `usernames.txt`.
 - Run `main.py`
 - The program will check if the usernames are available, taken, or blacklisted. These will be outputted in the respective files.
+ 
