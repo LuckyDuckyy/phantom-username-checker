@@ -1,3 +1,5 @@
+![phantom_usernames](https://github.com/LuckyDuckyy/phantom-username-checker/blob/main/banner_image.png?raw=true)
+
 # Phantom Wallet Username Checker
 Made for checking the availability of usernames on the Phantom using a wordlist.
 
